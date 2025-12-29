@@ -116,24 +116,24 @@ export default function Footer() {
           <ul className="space-y-2 text-sm">
             <li>
               <Link
-                href="/service/outsourcing-%26-hr-management"
+                href="/service/39"
                 className="hover:underline"
               >
                 Outsourcing & HR Management
               </Link>
             </li>
             <li>
-              <Link href="/service/ftth-(fiber-to-the-home)" className="hover:underline">
+              <Link href="/service/26" className="hover:underline">
                 FTTH (Fiber to the Home)
               </Link>
             </li>
             <li>
-              <Link href="/service/medical" className="hover:underline">
+              <Link href="/service/28" className="hover:underline">
                 Medical
               </Link>
             </li>
             <li>
-              <Link href="/service/pabx" className="hover:underline">
+              <Link href="/service/27" className="hover:underline">
                 PABX
               </Link>
             </li>

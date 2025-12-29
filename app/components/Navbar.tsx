@@ -129,7 +129,7 @@ export default function Navbar() {
         </ul>
 
         <Link
-          href="/contact"
+          href="https://recruitment.diangraha.com"
           className="hidden md:block bg-white/90 text-blue-800 px-4 py-2 rounded-md font-medium hover:bg-white transition-colors text-sm"
         >
           Get Started
@@ -205,7 +205,7 @@ export default function Navbar() {
           )}
 
           <Link
-            href="/contact"
+            href="https://recruitment.diangraha.com"
             className="bg-white text-blue-800 px-4 py-2 rounded-md font-medium hover:bg-gray-200 text-sm"
             onClick={() => setOpen(false)}
           >

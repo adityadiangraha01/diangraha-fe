@@ -132,7 +132,7 @@ export default function Navbar() {
           href="https://recruitment.diangraha.com"
           className="hidden md:block bg-white/90 text-blue-800 px-4 py-2 rounded-md font-medium hover:bg-white transition-colors text-sm"
         >
-          Get Started
+          Join Us
         </Link>
 
         <button className="md:hidden text-2xl text-white" onClick={() => setOpen(!open)}>
@@ -209,7 +209,7 @@ export default function Navbar() {
             className="bg-white text-blue-800 px-4 py-2 rounded-md font-medium hover:bg-gray-200 text-sm"
             onClick={() => setOpen(false)}
           >
-            Get Started
+            Join Us
           </Link>
         </div>
       )}

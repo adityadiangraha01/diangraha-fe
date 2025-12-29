@@ -60,6 +60,20 @@ export default function Footer() {
                 className="invert"
               />
             </a>
+            <a
+              href="https://recruitment.diangraha.com"
+              className="hover:opacity-80"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Image
+                src="/globe.svg"
+                alt="Web Recruitment DGE"
+                width={24}
+                height={24}
+                className="invert"
+              />
+            </a>
           </div>
         </div>
 
